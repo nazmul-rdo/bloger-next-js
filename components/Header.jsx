@@ -21,7 +21,7 @@ const Header = () => {
                        
                     </div>
                 </div>
-            </div>kjsdf
+            </div>
         </header>
     )
 }
